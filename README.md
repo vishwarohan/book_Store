@@ -28,7 +28,7 @@ The **Book Store** is a web application built using **Spring Boot, Thymeleaf, My
 ### Steps:
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/bookstore.git
+   git clone (https://github.com/vishwarohan/book_Store)
    cd bookstore
    ```
 2. **Configure Database:**
