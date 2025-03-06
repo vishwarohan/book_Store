@@ -45,7 +45,7 @@ The **Book Store** is a web application built using **Spring Boot, Thymeleaf, My
    mvn spring-boot:run
    ```
 4. **Access the application:**
-   - Open `http://localhost:8080` in a browser.
+   - Open `http://localhost:1001` in a browser.
 
 ## API Endpoints
 | Endpoint           | Method | Description          |
